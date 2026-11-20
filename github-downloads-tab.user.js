@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         GitHub 仓库导航栏 - Releases 便捷入口
-// @namespace    https://github.com/tampermonkey/releases-tab
+// @namespace    https://github.com/Wazolm/github-downloads-tab
 // @version      1.0.0
 // @description  在 Code 与 Issues 之间添加 Downloads 入口，点击直达 releases 页面
 // @author       Loge
